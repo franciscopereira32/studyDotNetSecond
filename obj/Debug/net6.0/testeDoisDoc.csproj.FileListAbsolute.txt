@@ -1,0 +1,15 @@
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\bin\Debug\net6.0\testeDoisDoc.exe
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\bin\Debug\net6.0\testeDoisDoc.deps.json
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\bin\Debug\net6.0\testeDoisDoc.runtimeconfig.json
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\bin\Debug\net6.0\testeDoisDoc.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\bin\Debug\net6.0\testeDoisDoc.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\testeDoisDoc.csproj.AssemblyReference.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\testeDoisDoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\testeDoisDoc.AssemblyInfoInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\testeDoisDoc.AssemblyInfo.cs
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\testeDoisDoc.csproj.CoreCompileInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\testeDoisDoc.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\refint\testeDoisDoc.dll
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\testeDoisDoc.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\testeDoisDoc.genruntimeconfig.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\C#\testeDoisDoc\obj\Debug\net6.0\ref\testeDoisDoc.dll
